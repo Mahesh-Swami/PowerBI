@@ -116,3 +116,8 @@ Improved leadership visibility into revenue patterns
 Enabled data-driven prioritization of high-value opportunities
 
 Delivered interactive insights with 0 manual refresh effort
+
+## Key Insights
+- Majority of opportunities are concentrated in early sales stages (Lead/Qualify), indicating potential conversion bottlenecks
+- East region contributes the highest share of opportunities
+- Revenue shows an upward trend in later months, indicating pipeline maturity or seasonal growth
